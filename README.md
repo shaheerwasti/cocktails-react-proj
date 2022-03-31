@@ -1,11 +1,5 @@
-#### React Router Fix
+#### Example URL
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+[https://search-cocktail-proj-react.netlify.app/]
 
-#### CRA Fix
 
-```
-
-"build": "CI= react-scripts build",
-
-```
